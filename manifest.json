@@ -1,0 +1,26 @@
+{
+  "bundleName": "@itentialopensource/prebuilt-test",
+  "version": "0.0.1",
+  "fingerprint": "60f719a0b23c000092f86ccc",
+  "createdEpoch": "1626806688072",
+  "artifacts": [
+    {
+      "id": "Test",
+      "name": "Test",
+      "type": "ac-agenda-job",
+      "location": "/bundles/ac_agenda_jobs/Test.json",
+      "properties": {
+        "entryPoint": false
+      }
+    },
+    {
+      "id": "Test",
+      "name": "Test",
+      "type": "workflow",
+      "location": "/bundles/workflows/Test.json",
+      "properties": {
+        "entryPoint": false
+      }
+    }
+  ]
+}
