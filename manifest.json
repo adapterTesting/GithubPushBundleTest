@@ -1,8 +1,8 @@
 {
   "bundleName": "@itentialopensource/prebuilt-test",
   "version": "0.0.1",
-  "fingerprint": "60f7195ab23c000092f86ccb",
-  "createdEpoch": "1626806618216",
+  "fingerprint": "60f719a0b23c000092f86ccc",
+  "createdEpoch": "1626806688072",
   "artifacts": [
     {
       "id": "Test",
