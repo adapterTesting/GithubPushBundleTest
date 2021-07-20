@@ -1,0 +1,24 @@
+{
+  "_id": "60ef2577285f7328b624f4b4",
+  "name": "Test",
+  "data": {
+    "description": "",
+    "workflowId": "Test",
+    "formId": null,
+    "formData": null,
+    "gbac": {
+      "write": [],
+      "read": []
+    },
+    "lastUpdated": "2021-07-14T18:04:57.628Z",
+    "modifiedById": "60a42ca0957f45d70745e15b",
+    "modifiedByUsername": "admin@pronghorn"
+  },
+  "lastModifiedBy": "8df40c1db005:142",
+  "lastRunAt": null,
+  "nextRunAt": null,
+  "priority": 0,
+  "repeatInterval": null,
+  "repeatTimezone": null,
+  "type": "normal"
+}
